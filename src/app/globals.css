@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --sidebar-bg: #1a1d24;
+  --card-bg: #252830;
+  --accent: #6366f1;
+  --text-primary: #f1f5f9;
+  --text-muted: #94a3b8;
+}
+
+body {
+  @apply antialiased;
+  @apply bg-slate-50 text-slate-900;
+}
+
+.dark body {
+  @apply bg-[#0f1117] text-slate-100;
+}

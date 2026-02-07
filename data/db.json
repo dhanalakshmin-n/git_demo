@@ -1,0 +1,140 @@
+{
+  "userBookmarks": [
+    {
+      "name": "Essence Mascara Lash Princess",
+      "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+      "url": "https://dummyjson.com/products/1",
+      "category": "Design",
+      "categorySlug": "design",
+      "rating": 2.56,
+      "faviconDomain": "dummyjson.com",
+      "id": "user-1770356292509-9r2obu0"
+    },
+    {
+      "name": "Eyeshadow Palette with Mirror",
+      "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+      "url": "https://dummyjson.com/products/2",
+      "category": "Design",
+      "categorySlug": "design",
+      "rating": 2.86,
+      "faviconDomain": "dummyjson.com",
+      "id": "user-1770356292510-nwedu7t"
+    },
+    {
+      "name": "Powder Canister",
+      "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+      "url": "https://dummyjson.com/products/3",
+      "category": "Design",
+      "categorySlug": "design",
+      "rating": 4.64,
+      "faviconDomain": "dummyjson.com",
+      "id": "user-1770356292511-3qoi248"
+    },
+    {
+      "url": "https://www.linkedin.com/",
+      "name": "LinkedIn",
+      "description": "1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+      "category": "Business",
+      "categorySlug": "business",
+      "rating": 3,
+      "faviconDomain": "linkedin.com",
+      "id": "user-1770357014171-6yvk3g1"
+    },
+    {
+      "url": "https://slack.com/",
+      "name": "Slack",
+      "description": "Slack is where work happens. Bring your people, projects, tools and AI together on the world’s most beloved work operating system.",
+      "category": "Development",
+      "categorySlug": "development",
+      "rating": 3,
+      "faviconDomain": "slack.com",
+      "id": "user-1770357322221-f5fwm3r"
+    },
+    {
+      "url": "https://www.youtube.com/?themeRefresh=1",
+      "name": "YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "category": "Productivity",
+      "categorySlug": "productivity",
+      "rating": 3,
+      "faviconDomain": "youtube.com",
+      "id": "user-1770357496279-trtjot3"
+    },
+    {
+      "url": "https://www.netflix.com/",
+      "name": "Netflix India",
+      "description": "Watch Netflix movies & shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.",
+      "category": "Entertainment",
+      "categorySlug": "entertainment",
+      "rating": 3,
+      "faviconDomain": "netflix.com",
+      "id": "user-1770357556808-psrtmdz"
+    },
+    {
+      "url": "https://www.phonepe.com",
+      "name": "PhonePe",
+      "description": "PhonePe is a Digital Wallet & Online Payment App that allows you to make instant Money Transfers with UPI. Recharge Mobile, DTH, Pay Utility Bills, Buy/Invest in Gold, Mutual Funds, Insurance & much more.",
+      "category": "Finance",
+      "categorySlug": "finance",
+      "rating": 4,
+      "faviconDomain": "phonepe.com",
+      "id": "user-1770357680725-uocl7rm"
+    },
+    {
+      "url": "https://www.instagram.com/",
+      "name": "Instagram",
+      "description": "Instagram",
+      "category": "Entertainment",
+      "categorySlug": "entertainment",
+      "rating": 1,
+      "faviconDomain": "instagram.com",
+      "id": "user-1770357816015-qsvdvoj"
+    },
+    {
+      "url": "https://razorpay.com/",
+      "name": "Razorpay",
+      "description": "Online Payments India: Start Accepting Payments Instantly with Razorpay",
+      "category": "Finance",
+      "categorySlug": "finance",
+      "rating": 3,
+      "faviconDomain": "razorpay.com",
+      "id": "user-1770357872166-cbdoagr"
+    },
+    {
+      "url": "https://x.com/",
+      "name": "X",
+      "description": "Twitter",
+      "category": "Social Media",
+      "categorySlug": "social-media",
+      "rating": 3,
+      "faviconDomain": "x.com",
+      "id": "user-1770357943849-bhby4fo"
+    },
+    {
+      "url": "https://purple.com/",
+      "name": "Purple",
+      "description": "Skin care products hub",
+      "category": "Skin care",
+      "categorySlug": "skin-care",
+      "rating": 3,
+      "faviconDomain": "purple.com",
+      "id": "user-1770358091378-cfo9muj"
+    }
+  ],
+  "userCategories": [
+    {
+      "id": "cat-spotify-hresyk",
+      "name": "spotify",
+      "slug": "spotify",
+      "icon": "music",
+      "color": "#84cc16"
+    },
+    {
+      "id": "cat-skin-care-odblht",
+      "name": "Skin care",
+      "slug": "skin-care",
+      "icon": "camera",
+      "color": "#eab308"
+    }
+  ]
+}
